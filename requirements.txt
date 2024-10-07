@@ -1,0 +1,5 @@
+pip~=23.2.1
+attrs~=24.2.0
+retry~=0.9.2
+PySocks~=1.7.1
+pillow~=10.2.0
